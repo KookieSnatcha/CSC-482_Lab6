@@ -23,7 +23,7 @@
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CSC-482_Lab6.cpp">
+    <ClCompile Include="CSC-482_Lab7.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
